@@ -1,24 +1,5 @@
-Cupcake app
+Cupcake app Modification
 =================================
 
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
-The order details get displayed on an order summary screen and can be shared to another app to
-send the order.
+Aplikasi ini merupakan hasil modfikasi dari aplikasi Cupcake dalam codelab Menavigasi antarlayar dengan Compose, saya sudah mencoba membuat file baru namun NavHost "compose" tidak mau ter-import sehingga saya tidak bisa membuat rute untuk navigasi. viewModel() juga tidak bisa ter-import karena "compose" dalam import package "import androidx.lifecycle.viewmodel.compose.viewModel" tidak bisa ter-import.
 
-TODO
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-* TODO
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
